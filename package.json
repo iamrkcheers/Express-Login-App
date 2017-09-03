@@ -1,0 +1,24 @@
+{
+  "name": "express-login-app",
+  "version": "1.0.0",
+  "description": "Express Login App.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamrkcheers/Express-Login-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamrkcheers/Express-Login-App/issues"
+  },
+  "homepage": "https://github.com/iamrkcheers/Express-Login-App#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-session": "^1.15.5"
+  }
+}
