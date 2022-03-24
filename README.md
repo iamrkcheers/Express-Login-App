@@ -1,3 +1,3 @@
-# Express-Login-App
+# express-login-app
 
 A login application in ExpressJS.
